@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nishtachok/static/css/main.aebbadad.css",
-    "main.js": "/nishtachok/static/js/main.ab1df175.js",
+    "main.js": "/nishtachok/static/js/main.3793bd5a.js",
     "static/js/787.1d2be8e6.chunk.js": "/nishtachok/static/js/787.1d2be8e6.chunk.js",
     "static/media/nishtyachok_logo.png": "/nishtachok/static/media/nishtyachok_logo.5ccbdcbf2bfb2bb84ce6.png",
     "static/media/background_w.png": "/nishtachok/static/media/background_w.2eb8b02c23e7e737599f.png",
@@ -9,11 +9,11 @@
     "static/media/phone-flat.png": "/nishtachok/static/media/phone-flat.0187adf6b18c23d2aed0.png",
     "index.html": "/nishtachok/index.html",
     "main.aebbadad.css.map": "/nishtachok/static/css/main.aebbadad.css.map",
-    "main.ab1df175.js.map": "/nishtachok/static/js/main.ab1df175.js.map",
+    "main.3793bd5a.js.map": "/nishtachok/static/js/main.3793bd5a.js.map",
     "787.1d2be8e6.chunk.js.map": "/nishtachok/static/js/787.1d2be8e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aebbadad.css",
-    "static/js/main.ab1df175.js"
+    "static/js/main.3793bd5a.js"
   ]
 }
