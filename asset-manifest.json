@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/nishtachok_menu/static/css/main.3a91f6a6.css",
+    "main.js": "/nishtachok_menu/static/js/main.bd6b581c.js",
+    "static/js/787.1d2be8e6.chunk.js": "/nishtachok_menu/static/js/787.1d2be8e6.chunk.js",
+    "static/media/nishtyachok_logo.png": "/nishtachok_menu/static/media/nishtyachok_logo.5ccbdcbf2bfb2bb84ce6.png",
+    "static/media/background_w.png": "/nishtachok_menu/static/media/background_w.2eb8b02c23e7e737599f.png",
+    "static/media/font.ttf": "/nishtachok_menu/static/media/font.0deef97e23e5075473ad.ttf",
+    "static/media/phone-flat.png": "/nishtachok_menu/static/media/phone-flat.0187adf6b18c23d2aed0.png",
+    "index.html": "/nishtachok_menu/index.html",
+    "main.3a91f6a6.css.map": "/nishtachok_menu/static/css/main.3a91f6a6.css.map",
+    "main.bd6b581c.js.map": "/nishtachok_menu/static/js/main.bd6b581c.js.map",
+    "787.1d2be8e6.chunk.js.map": "/nishtachok_menu/static/js/787.1d2be8e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a91f6a6.css",
+    "static/js/main.bd6b581c.js"
+  ]
+}
