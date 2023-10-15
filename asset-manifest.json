@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nishtachok/static/css/main.08691cd7.css",
-    "main.js": "/nishtachok/static/js/main.d35b09e3.js",
+    "main.css": "/nishtachok/static/css/main.f9ba4ea5.css",
+    "main.js": "/nishtachok/static/js/main.dfea6c00.js",
     "static/js/787.1d2be8e6.chunk.js": "/nishtachok/static/js/787.1d2be8e6.chunk.js",
     "static/media/nishtyachok_logo.png": "/nishtachok/static/media/nishtyachok_logo.5ccbdcbf2bfb2bb84ce6.png",
     "static/media/Pizza.png": "/nishtachok/static/media/Pizza.e548550a87dab56aa29c.png",
@@ -14,6 +14,7 @@
     "static/media/Mak.png": "/nishtachok/static/media/Mak.f0f1ade2a40c34b1374f.png",
     "static/media/cupcake.png": "/nishtachok/static/media/cupcake.2644c66ee5d515f55a5e.png",
     "static/media/sandwich.png": "/nishtachok/static/media/sandwich.eaaff54be6dbc3297ea2.png",
+    "static/media/coffee.png": "/nishtachok/static/media/coffee.01ec45e7e18fd41738cb.png",
     "static/media/set1.jpg": "/nishtachok/static/media/set1.e5047149461f8d31d761.jpg",
     "static/media/pasta.png": "/nishtachok/static/media/pasta.821d4d277e029ed0b42e.png",
     "static/media/ice_drinks.png": "/nishtachok/static/media/ice_drinks.e18376a5a24a1d97b580.png",
@@ -22,18 +23,22 @@
     "static/media/Second_courses.png": "/nishtachok/static/media/Second_courses.0f014ba1b671f8b2f360.png",
     "static/media/First_courses.png": "/nishtachok/static/media/First_courses.848d8dbde414832c7eb8.png",
     "static/media/hach.png": "/nishtachok/static/media/hach.8b074c4cbe6512b6db22.png",
+    "static/media/saltyvipechka.webp": "/nishtachok/static/media/saltyvipechka.a96459d14f7bf8604f38.webp",
+    "static/media/smuzi.png": "/nishtachok/static/media/smuzi.2c4cb08613e02438a76a.png",
     "static/media/Salad.jpg": "/nishtachok/static/media/Salad.2d2c5d3491e8b61501cc.jpg",
     "static/media/snack.jpg": "/nishtachok/static/media/snack.342e11149356b461cd1d.jpg",
     "static/media/font.ttf": "/nishtachok/static/media/font.0deef97e23e5075473ad.ttf",
+    "static/media/chocolade.jpg": "/nishtachok/static/media/chocolade.4ed8199b5fe51749ff37.jpg",
     "static/media/dragon.jpg": "/nishtachok/static/media/dragon.4c70fd937806eede3f69.jpg",
     "static/media/phone-flat.png": "/nishtachok/static/media/phone-flat.0187adf6b18c23d2aed0.png",
+    "static/media/kids menu.webp": "/nishtachok/static/media/kids menu.0775a6a441e603a5c72d.webp",
     "index.html": "/nishtachok/index.html",
-    "main.08691cd7.css.map": "/nishtachok/static/css/main.08691cd7.css.map",
-    "main.d35b09e3.js.map": "/nishtachok/static/js/main.d35b09e3.js.map",
+    "main.f9ba4ea5.css.map": "/nishtachok/static/css/main.f9ba4ea5.css.map",
+    "main.dfea6c00.js.map": "/nishtachok/static/js/main.dfea6c00.js.map",
     "787.1d2be8e6.chunk.js.map": "/nishtachok/static/js/787.1d2be8e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08691cd7.css",
-    "static/js/main.d35b09e3.js"
+    "static/css/main.f9ba4ea5.css",
+    "static/js/main.dfea6c00.js"
   ]
 }
