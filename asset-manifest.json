@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nishtachok/static/css/main.0c7de3de.css",
-    "main.js": "/nishtachok/static/js/main.a353b7ec.js",
+    "main.js": "/nishtachok/static/js/main.31fa5243.js",
     "static/js/787.1d2be8e6.chunk.js": "/nishtachok/static/js/787.1d2be8e6.chunk.js",
     "static/media/nishtyachok_logo.png": "/nishtachok/static/media/nishtyachok_logo.5ccbdcbf2bfb2bb84ce6.png",
     "static/media/Pizza.png": "/nishtachok/static/media/Pizza.e548550a87dab56aa29c.png",
@@ -36,11 +36,11 @@
     "static/media/kids menu.webp": "/nishtachok/static/media/kids menu.0775a6a441e603a5c72d.webp",
     "index.html": "/nishtachok/index.html",
     "main.0c7de3de.css.map": "/nishtachok/static/css/main.0c7de3de.css.map",
-    "main.a353b7ec.js.map": "/nishtachok/static/js/main.a353b7ec.js.map",
+    "main.31fa5243.js.map": "/nishtachok/static/js/main.31fa5243.js.map",
     "787.1d2be8e6.chunk.js.map": "/nishtachok/static/js/787.1d2be8e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c7de3de.css",
-    "static/js/main.a353b7ec.js"
+    "static/js/main.31fa5243.js"
   ]
 }
